@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<class>
+    <baseURL>https://fakerestapi.azurewebsites.net/</baseURL>
+
+    <activitiesPost>api/v1/Activities</activitiesPost>
+    <activitiesCRUD>api/v1/Activities/</activitiesCRUD>
+</class>
